@@ -1,0 +1,7 @@
+tabbed
+xembed
+*.diff
+config.h
+*.o
+*.orig
+*.rej
